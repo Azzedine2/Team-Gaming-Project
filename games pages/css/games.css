@@ -125,6 +125,9 @@ footer i:active {
   max-width: 48rem;
   margin: 0 auto;
 }
+.container .slider-wrapper .slider {
+  
+}
 
 .slider {
   display: flex;
